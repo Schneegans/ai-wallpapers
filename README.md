@@ -14,5 +14,5 @@ I created a wallpaper for each of the effects of the [Burn-My-Windows GNOME Shel
 The montages in this README were generated with [Image Magick](https://imagemagick.org/index.php) like this:
 
 ```
-montage -label '%f' burn-my-windows/*.jpg -tile 5x4 -geometry 240x150+4+2 burn-my-windows.jpg
+montage -label '%f' burn-my-windows/*.jpg -tile 4x5 -geometry 240x150+4+2 burn-my-windows.jpg
 ```
