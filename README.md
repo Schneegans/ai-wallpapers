@@ -3,16 +3,13 @@
 All wallpapers in this repository were generated with [Midjourney](https://www.midjourney.com) and upscaled with [Upscaler](https://flathub.org/apps/details/io.gitlab.theevilskeleton.Upscaler).
 All wallpapers are free to use under the terms of the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
-I created a wallpaper for each of the effects of the [Burn-My-Windows GNOME Shell extension](https://github.com/Schneegans/Burn-My-Windows).
-While doing this, some other really cool images were created.
-See below.
 
-## Wallpapers for the Effects of Burn-My-Windows 
+## Wallpapers for the [Effects of Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows)
 
 
 [![](burn-my-windows-effects.jpg)](burn-my-windows-effects)
 
-## Other Burn-My-Windows Wallpapers
+## Other [Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) Wallpapers
 
 [![](burn-my-windows.jpg)](burn-my-windows)
 
