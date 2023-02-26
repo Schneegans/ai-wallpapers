@@ -13,6 +13,10 @@ All wallpapers are free to use under the terms of the [CC-BY 4.0](https://creati
 
 [![](burn-my-windows.jpg)](burn-my-windows)
 
+## Wallpapers inspired by the [Desktop Cube Extension](https://github.com/Schneegans/Desktop-Cube)
+
+
+[![](desktop-cube.jpg)](desktop-cube)
 
 ## Abstract Illustrations
 
