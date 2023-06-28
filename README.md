@@ -11,16 +11,13 @@ All wallpapers are free to use under the terms of the [CC-BY 4.0](https://creati
 
 [![](burn-my-windows-effects.jpg)](burn-my-windows-effects)
 
-
 ## Other [Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) Wallpapers
 
 [![](burn-my-windows.jpg)](burn-my-windows)
 
-
 ## Wallpapers inspired by the [Desktop Cube](https://github.com/Schneegans/Desktop-Cube) Extension
 
 [![](desktop-cube.jpg)](desktop-cube)
-
 
 ## Wallpapers inspired by the [Fly-Pie](https://github.com/Schneegans/Fly-Pie) Extension
 
@@ -30,7 +27,6 @@ All wallpapers are free to use under the terms of the [CC-BY 4.0](https://creati
 ## Abstract Illustrations
 
 [![](abstract-illustrations.jpg)](abstract-illustrations)
-
 
 ## Notes
 
