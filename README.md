@@ -3,6 +3,9 @@
 All wallpapers in this repository were generated with [Midjourney](https://www.midjourney.com) and upscaled with [Upscaler](https://flathub.org/apps/details/io.gitlab.theevilskeleton.Upscaler).
 All wallpapers are free to use under the terms of the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
+## Wallpapers for [Kando](https://github.com/kando-menu/kando)
+
+[![](kando.jpg)](kando)
 
 ## Wallpapers for the Effects of [Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows)
 
