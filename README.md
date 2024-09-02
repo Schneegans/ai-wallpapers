@@ -15,14 +15,17 @@ All wallpapers are free to use under the terms of the [CC-BY 4.0](https://creati
 
 [![](burn-my-windows.jpg)](burn-my-windows)
 
-## Wallpapers inspired by the [Desktop Cube](https://github.com/Schneegans/Desktop-Cube) Extension
-
-[![](desktop-cube.jpg)](desktop-cube)
-
 ## Wallpapers inspired by the [Fly-Pie](https://github.com/Schneegans/Fly-Pie) Extension
 
 [![](fly-pie.jpg)](fly-pie)
 
+## Linux Wallpapers
+
+[![](linux.jpg)](linux)
+
+## Geometric Patterns
+
+[![](geometric-patterns.jpg)](geometric-patterns)
 
 ## Abstract Illustrations
 
